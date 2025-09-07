@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on barisaygun.net</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on barisaygun.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Sep 2025 08:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Host your website with AWS Amplify</title>
+      <link>http://localhost:1313/posts/aws_amplify/</link>
+      <pubDate>Sun, 07 Sep 2025 08:06:25 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/aws_amplify/</guid>
+      <description>&lt;p&gt;Hello, This is the first project post of my blog. On this post we are going to use AWS Amplify to host our website on AWS. AWS Amplify is simplified Cloudfront + S3 website hosting on AWS. With less issues we can host our static websites on AWS.&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

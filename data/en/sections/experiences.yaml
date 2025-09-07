@@ -1,0 +1,71 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Allianz
+    url: "https://www.allianz.com"
+    location: Remote, Turkey
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+#    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Network and Security Engineer
+    start: August 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Entrusted with design, installation, management and monitoring of Allianz Turkey Network and Security Infrastructure related hardware and software.
+    - Enhanced monitoring and logging systems with AI Agent to reduce incident identification time by increasing alert accuracy, resulted in reduction of intervention time.
+    - Automated tasks with Ansible Automation Platform and Atlassian which led to better ticket response time.
+    - Lead third-party service providers, vendors and support services to apply up-to-date solutions for improvement of the network and security infrastructure and implementation of new projects on demand.
+
+- company:
+    name: Neocom Communication Technologies
+    url: "https://www.neocom.com.tr"
+    location: Istanbul, Turkey
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+#    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Network Engineer
+    start: July 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: August 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Designed, integrated and maintained various network infrastructures and devices e.g. Fortigate Firewall, Palo Alto Firewall, Cisco Switches, Aruba/HP Switches, Cisco ISE, Cisco WLC and Aruba WLC.
+    - Troubleshooted, resolved, and recommended improvements for network and security problems.
+    - Performed capacity and resource planning to evaluate existing network systems to recommend resources and maintain or expand as necessary.
+    - Provide level 3 support to colleagues.
+
+- company:
+    name: IBM Global Technology Services
+    url: "https://www.ibm.com"
+    location: Istanbul, Turkey
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+#    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Network Support Specialist
+    start: January 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: July 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Participated to the project led by the Turkey Ministry of Health, Basaksehir Cam ve Sakura hospital. Installed, configured and managed 1000+ switches, 2000+ APs, 2 Palo Alto firewalls in two data centers.
+    - Contributed to the team for meet the SLA targets and support customers BAU operations.
+    - Planned medium upgrades and performed with minimum supervision, e.g Check Point Firewalls, Fortigate Firewalls, Palo Alto Firewalls, Cisco Switches and Routers.
+    - Supervised internal operation following IBM standards of security guidelines to be compliant in all metrics.
+

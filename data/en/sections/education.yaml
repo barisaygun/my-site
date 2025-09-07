@@ -1,0 +1,22 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+degrees:
+- name: Computer Engineering | Bachelor's Degree
+  icon: fa-graduation-cap
+  timeframe: 2014-2019
+  institution:
+    name: Istanbul Kultur University
+    url: "https://www.iku.edu.tr/en"
+    logo: /images/education/college.png # Path of the logo image
+    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  customSections: #(optional)
+    - name: Graduation Project - Implementing HAProxy
+      content: The project aims at setting up a HAProxy benchmark testbed on Linux servers (CentOS7) that are virtualized over the Oracle VM VirtualBox platform. The project involves following; The installation of the HAProxy in a corporate network topology consisting of a gateway router, extranet firewall, 3-tier application architecture including several web servers (Apache) that access database servers via application servers. Results in the demonstration of the high availability and the load balancing features of the setup. 

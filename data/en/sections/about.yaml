@@ -1,0 +1,91 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Network and Security Engineer
+# your company information
+company:
+  name: Allianz
+  url: "https://www.allianz.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/BarisAygun2025-CV.pdf"
+
+# a summary about you
+summary: 'Initiative and solution-oriented Network and Security Engineer with over 5 years of experience in designing and implementing scalable and secure infrastructures. 3x AWS Certified with expertise in cloud migration, automation and secure network architectures. Achieved high customer satisfaction through proactive solutions and guided colleagues for best practices. Participated in large, medium and small enterprise network and security projects.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "b.aygun@outlook.com.tr"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/barisaygun"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/baris-aygun"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: AWS Certified Security - Specialty
+  url: "https://www.credly.com/badges/bde6fd97-5616-4e23-8aec-4384b36c90cf/public_url"
+  badge: "https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"
+
+- type: certification
+  name: AWS Certified Solutions Architect - Professional
+  url: "https://www.credly.com/badges/bfb9a350-39d7-4acc-8aa6-b874b943a3f9/public_url"
+  badge: "https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
+
+- type: certification
+  name: AWS Certified Advanced Networking - Specialty
+  url: "https://www.credly.com/badges/04b35a51-22ec-463d-a875-8d4324e043b8/public_url"
+  badge: "https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png"
+
+- type: certification
+  name: Cisco Certified DevNet Associate
+  url: "https://www.credly.com/badges/b105bc21-3faa-4efa-b240-fec2995edae4/public_url"
+  badge: "https://images.credly.com/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png"
+
+- type: certification
+  name: Cisco Certified Network Professional Enterprise (CCNP Enterprise)
+  url: "https://www.credly.com/badges/eb30584b-4b34-456d-98f8-793298ffac2d/public_url"
+  badge: "https://images.credly.com/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png"
+
+- type: certification
+  name: Citrix Certified Associate - App Delivery and Security (CCA-AppDS)
+  url: "https://www.credly.com/badges/17bc7998-07b1-48ae-9429-7b363ed74b16/public_url"
+  badge: "https://images.credly.com/images/b6ff7e55-dda8-48f8-a956-833cba5af57f/CCA-AppDS.png"
+
+#- type: soft-skill-indicator
+#  name: Leadership
+#  percentage: 85
+#  color: blue
+
+#- type: soft-skill-indicator
+#  name: Team Work
+#  percentage: 90
+#  color: yellow
+
+#- type: soft-skill-indicator
+#  name: Hard Working
+#  percentage: 85
+#  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
