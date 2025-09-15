@@ -12,7 +12,10 @@
       <pubDate>Sun, 07 Sep 2025 08:06:25 +0600</pubDate>
       
       <guid>http://localhost:1313/posts/aws_amplify/</guid>
-      <description>&lt;p&gt;Hello, This is the first project post of my blog. On this post we are going to use AWS Amplify to host our website on AWS. AWS Amplify is simplified Cloudfront + S3 website hosting on AWS. With less issues we can host our static websites on AWS.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hello World!
+This is the first project document on my blog and the project is blog itself. This would be a short project relatively because implementation of the project is mostly simple and requirements are clear.
+I can’t include website creation processes or Hugo related parts because in best case I’m amateur on that field. I only want to share what was my requirements, why I choose to proceed with AWS Amplify and what could be the other solutions and what kind of struggles I face on the process.&lt;/p&gt;</description>
     </item>
     
     

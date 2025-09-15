@@ -10,5 +10,5 @@ section:
 # posts to feature
 posts:
   - AWS_Amplify
-  - update-v3-to-v4
-  - prepare-site
+#  - Test_01
+#  - Test_02

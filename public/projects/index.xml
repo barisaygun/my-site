@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Basic on barisaygun.net</title>
-    <link>http://localhost:1313/categories/basic/</link>
-    <description>Recent content in Basic on barisaygun.net</description>
+    <title>Posts on barisaygun.net</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Posts on barisaygun.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Sep 2025 08:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/categories/basic/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 07 Sep 2025 08:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Host your website with AWS Amplify</title>
-      <link>http://localhost:1313/posts/aws_amplify/</link>
+      <link>http://localhost:1313/projects/aws_amplify/</link>
       <pubDate>Sun, 07 Sep 2025 08:06:25 +0600</pubDate>
       
-      <guid>http://localhost:1313/posts/aws_amplify/</guid>
+      <guid>http://localhost:1313/projects/aws_amplify/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Hello World!
 This is the first project document on my blog and the project is blog itself. This would be a short project relatively because implementation of the project is mostly simple and requirements are clear.

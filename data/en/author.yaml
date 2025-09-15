@@ -7,8 +7,8 @@ image: "images/author/baris.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "b.aygun@outlook.com.tr"
-  linkedin: https://www.linkedin.com/in/baris-aygun/
-  github: https://github.com/barisaygun
+  linkedin: baris-aygun/
+  github: barisaygun
 
 # some summary about what you do
 summary:

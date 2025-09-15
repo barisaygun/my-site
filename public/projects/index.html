@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <title>404 Page not found</title>
+    <title>Posts</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -13,6 +13,7 @@
 
 
 
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/projects/index.xml" title="barisaygun.net">
 
 
 
@@ -50,7 +51,7 @@ document.documentElement.setAttribute('data-theme', theme)
     
   </head>
 
-  <body class="type-page kind-404" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="80">
+  <body class="type-projects kind-section" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="80">
     <div class="container-fluid bg-secondary wrapper">
       
       
@@ -183,29 +184,83 @@ document.documentElement.setAttribute('data-theme', theme)
 
 
       
-       
-
       
-      
+  
+  
 
-
-
-
-
-
+  <section class="sidebar-section" id="sidebar-section">
+    <div class="sidebar-holder">
+      <div class="sidebar" id="sidebar">
+        <form class="mx-auto" method="get" action="/search">
+          <input type="text" name="keyword" value="" placeholder="Search" data-search="" id="search-box" />
+        </form>
+        <div class="sidebar-tree">
+          <ul class="tree" id="tree">
+            <li id="list-heading"><a href="/projects" data-filter="all"></a></li>
+            <div class="subtree">
+                
+  
+  
+  
+  
+  
+    
+    <li><a class=" list-link" href="/projects/aws_amplify/" title="Static website on AWS">Static website on AWS</a></li>
   
 
 
-
-<div class="container">
-    <div class="notFound">
-        <img src="/images/404_hu_dc73d94ad49d9307.png" alt="Page Not Found">
-        <div class="message">
-            <h1>404</h1>
-            <h4>The page you are looking for is not there yet.</h4>
+            </div>
+          </ul>
         </div>
+      </div>
     </div>
+  </section>
+
+
+      
+      
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" id="content">
+    <div class="container-fluid post-card-holder" id="post-card-holder">
+      
+      
+      
+      
+        
+          <div class="post-card">
+  <div class="card">
+    <div class="card-head">
+      <a href="/projects/aws_amplify/" class="post-card-link">
+        <img class="card-img-top" src='/projects/aws_amplify/hero.svg' alt="Hero Image">
+      </a>
+    </div>
+    <div class="card-body">
+      <a href="/projects/aws_amplify/" class="post-card-link">
+        <h5 class="card-title">Host your website with AWS Amplify</h5>
+        <p class="card-text post-summary">Introduction Hello World! This is the first project document on my blog and the project is blog itself. This would be a short project relatively because implementation of the project is mostly simple and requirements are clear. I can’t include website creation processes or Hugo related parts because in best case I’m amateur on that field. I only want to share what was my requirements, why I choose to proceed with AWS Amplify and what could be the other solutions and what kind of struggles I face on the process.
+</p>
+      </a>
+      
+    </div>
+    <div class="card-footer">
+      <span class="float-start">
+          Sunday, September 7, 2025
+          </span>
+      <a
+      href="/projects/aws_amplify/"
+      class="float-end btn btn-outline-info btn-sm">Read</a>
+    </div>
+  </div>
 </div>
+
+        
+      
+    </div>
+    <div class="paginator">
+      
+    </div>
+  </div>
+</section>
 
 
       
